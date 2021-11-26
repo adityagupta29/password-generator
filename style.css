@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(245, 245, 245);
+}
+
+.content{
+    margin: 50px 50px 40px 50px;
+}
+
+.brand{
+    color: #ef4f4f;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+
+.password{
+    color: rgb(209, 185, 185);
+    font-size: 20px;
+    font-family: sans-serif;
+
+
+}
